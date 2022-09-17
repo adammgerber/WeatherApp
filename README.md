@@ -7,3 +7,4 @@
 - SwiftUI's declarative syntax vs imperative we're all used to :/ 
 
 ![screenshot](https://raw.githubusercontent.com/adammgerber/images/main/weatherapp.png)
+![ezgif com-gif-maker-8](https://user-images.githubusercontent.com/104106003/190865871-8b91c856-14fd-4a7d-902d-f5b7803becb0.gif)
